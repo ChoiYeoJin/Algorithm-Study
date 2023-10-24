@@ -15,6 +15,7 @@
 |3주차 - 자료구조 <br> (10.11~10.18) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [괄호](https://www.acmicpc.net/problem/9012) | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [최소 힙](https://www.acmicpc.net/problem/1927)|
 |4주차 - 정렬 <br>(10.18~10.25) | [소트인사이드](https://www.acmicpc.net/problem/1427) | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [시리얼 번호](https://www.acmicpc.net/problem/1431) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751)|
 |5주차 - DP <br>(10.25~ ) | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [계단 오르기](https://www.acmicpc.net/problem/2579) | [이친수](https://www.acmicpc.net/problem/2193) | [약수의 합](https://www.acmicpc.net/problem/17425) |
+***
 
 # 🍏1차 발표 스케줄
 | 과목      | 발표자                                                                 |
