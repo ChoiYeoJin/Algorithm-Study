@@ -11,3 +11,7 @@
 ||1|2|3|4|5|
 |-|-|-|-|-|-|
 |1주차 - 입출력 <br> (09.28~10.05)|[Hello World](https://www.acmicpc.net/problem/2557)  |[A+B - 7](https://www.acmicpc.net/problem/11021)  |[최소, 최대](https://www.acmicpc.net/problem/10818)  | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [별 찍기 - 16](https://www.acmicpc.net/problem/10991) |
+|2주차 - 수학 <br> (10.05~10.11) | [최대공약수](https://www.acmicpc.net/problem/1850) | [최소공배수](https://www.acmicpc.net/problem/1934) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[피보나치 수](https://www.acmicpc.net/problem/2747)| [약수의 합](https://www.acmicpc.net/problem/17425)|
+|3주차 - 자료구조 <br> (10.11~10.18) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [괄호](https://www.acmicpc.net/problem/9012) | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [최소 힙](https://www.acmicpc.net/problem/1927)|
+|4주차 - 정렬 <br>(10.18~10.25) | [소트인사이드](https://www.acmicpc.net/problem/1427) | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [시리얼 번호](https://www.acmicpc.net/problem/1431) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751)|
+|5주차 - DP <br>(10.25~ ) | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [계단 오르기](https://www.acmicpc.net/problem/2579) | [이친수](https://www.acmicpc.net/problem/2193) | [약수의 합](https://www.acmicpc.net/problem/17425) |
