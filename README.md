@@ -15,3 +15,11 @@
 |3주차 - 자료구조 <br> (10.11~10.18) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [괄호](https://www.acmicpc.net/problem/9012) | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [최소 힙](https://www.acmicpc.net/problem/1927)|
 |4주차 - 정렬 <br>(10.18~10.25) | [소트인사이드](https://www.acmicpc.net/problem/1427) | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [시리얼 번호](https://www.acmicpc.net/problem/1431) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751)|
 |5주차 - DP <br>(10.25~ ) | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [계단 오르기](https://www.acmicpc.net/problem/2579) | [이친수](https://www.acmicpc.net/problem/2193) | [약수의 합](https://www.acmicpc.net/problem/17425) |
+
+# 🍏1차 발표 스케줄
+| 과목      | 발표자                                                                 |
+| --------- | ---------------------------------------------------------------------- |
+| 수학      | 박건우(합공식, 피보나치수, 약수) 서슬빈(최대공약수, 최소공배수, 소수, 조합과 순열) |
+| 자료구조  | 이희주(해시, 스택)      김지환(큐, 덱, 힙)                                         |
+| 재귀,정렬 |   박건우(삽입정렬), 김지환(선택정렬), 이희주(퀵정렬), 최여진(병합정렬), 서슬빈(힙정렬) |
+| DP          |                                   최여진                                     |
