@@ -1,14 +1,3 @@
-function turn_right(queue) {
-  var last = queue.pop();
-  queue.unshift(last);
-}
-
-function turn_left(queue) {
-  var first = queue.shift();
-  queue.push(first);
-}
-
-/**/
 const fs = require("fs");
 let input = fs.readFileSync(__dirname + "\\input.txt").toString();
 // let input = fs.readFileSync('/dev/stdin').toString().trim();
@@ -31,6 +20,7 @@ for (var i = 1; i <= n; i++) {
 var i = 0;
 var target = order[i++];
 var cnt = 0;
+
 while (i <= order.length) {
   var cur = queue[0];
 
@@ -55,3 +45,13 @@ while (i <= order.length) {
   }
 }
 console.log(cnt);
+
+function turn_right(queue) {
+  var last = queue.pop();
+  queue.unshift(last);
+}
+
+function turn_left(queue) {
+  var first = queue.shift();
+  queue.push(first);
+}
