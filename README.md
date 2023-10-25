@@ -18,15 +18,15 @@
 ***
 
 # 🍏1차 발표
-| 과목      | 발표자                                                                 |
+| 주제      | 발표자                                                                 |
 | --------- | ---------------------------------------------------------------------- |
-| 수학      | [박건우(합공식, 피보나치수, 약수)](https://confused-dietician-c17.notion.site/1-90adf26c86cf48dea83f5504c2d5315e?pvs=4) [서슬빈(최대공약수, 최소공배수, 소수, 조합과 순열)](https://solar-stocking-108.notion.site/026b69a7ff5b48d89339ca239b8bea08?pvs=4 ) |
-| 자료구조  | [이희주(해시, 스택)](https://mountainous-servant-825.notion.site/1f9d2c113834431bb8283402462b3ef1?pvs=4)      [김지환(큐, 덱, 힙)](https://jasper-bag-aa2.notion.site/Queue-Deque-Heap-55a42f52b30a43c18d0fe38f7fd3a7d9?pvs=4)                                         |
+| 수학      | [박건우(합공식, 피보나치수, 약수)](https://confused-dietician-c17.notion.site/1-90adf26c86cf48dea83f5504c2d5315e?pvs=4), [서슬빈(최대공약수, 최소공배수, 소수, 조합과 순열)](https://solar-stocking-108.notion.site/026b69a7ff5b48d89339ca239b8bea08?pvs=4 ) |
+| 자료구조  | [이희주(해시, 스택)](https://mountainous-servant-825.notion.site/1f9d2c113834431bb8283402462b3ef1?pvs=4),      [김지환(큐, 덱, 힙)](https://jasper-bag-aa2.notion.site/Queue-Deque-Heap-55a42f52b30a43c18d0fe38f7fd3a7d9?pvs=4)                                         |
 | 재귀,정렬 |   [박건우(삽입정렬)](https://confused-dietician-c17.notion.site/3-3a343b1c58b745588e4bd943c09f4ff3?pvs=4), [김지환(선택정렬)](https://jasper-bag-aa2.notion.site/Selection-Sort-8a0fa1f062574ead83d55242fbecbdeb?pvs=4), [이희주(퀵정렬)](https://mountainous-servant-825.notion.site/c32970ca3ff948fba918d26b11bacc0f?pvs=4), [최여진(병합정렬)](https://picayune-candle-297.notion.site/3fe04051ba724f248447c01ce28e7fdd?pvs=4), [서슬빈(힙정렬)](https://solar-stocking-108.notion.site/heap-sort-c6804188901b4904b96252c291d8c6c4?pvs=4) |
 | DP          |                                   [최여진](https://velog.io/@sonata7531/Dynamic-Programming)                                     |
 # 🍏2차 발표
 
-| 과목      | 발표자                                                                 |
+| 주제      | 발표자                                                                 |
 | --------- | ---------------------------------------------------------------------- |
 | 그래프(기초 DFS/BFS)     |서슬빈 |
 | DFS/BFS응용, 최단경로 구하기 |    최여진                                      |
