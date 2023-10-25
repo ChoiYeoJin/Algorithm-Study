@@ -24,7 +24,7 @@
 | 자료구조  | [이희주(해시, 스택)](https://mountainous-servant-825.notion.site/1f9d2c113834431bb8283402462b3ef1?pvs=4),      [김지환(큐, 덱, 힙)](https://jasper-bag-aa2.notion.site/Queue-Deque-Heap-55a42f52b30a43c18d0fe38f7fd3a7d9?pvs=4)                                         |
 | 재귀,정렬 |   [박건우(삽입정렬)](https://confused-dietician-c17.notion.site/3-3a343b1c58b745588e4bd943c09f4ff3?pvs=4), [김지환(선택정렬)](https://jasper-bag-aa2.notion.site/Selection-Sort-8a0fa1f062574ead83d55242fbecbdeb?pvs=4), [이희주(퀵정렬)](https://mountainous-servant-825.notion.site/c32970ca3ff948fba918d26b11bacc0f?pvs=4), [최여진(병합정렬)](https://picayune-candle-297.notion.site/3fe04051ba724f248447c01ce28e7fdd?pvs=4), [서슬빈(힙정렬)](https://solar-stocking-108.notion.site/heap-sort-c6804188901b4904b96252c291d8c6c4?pvs=4) |
 | DP          |                                   [최여진](https://velog.io/@sonata7531/Dynamic-Programming)                                     |
-# 🍏2차 발표
+# 🍎2차 발표
 
 | 주제      | 발표자                                                                 |
 | --------- | ---------------------------------------------------------------------- |
