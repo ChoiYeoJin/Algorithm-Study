@@ -42,3 +42,4 @@ function heapSort(array) {
 
 const sortedArray = heapSort(input);
 console.log(sortedArray.join(""));
+

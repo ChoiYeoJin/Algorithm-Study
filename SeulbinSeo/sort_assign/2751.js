@@ -16,6 +16,3 @@ const iter = input.shift();
 input.sort((a,b) => a - b);
 
 console.log(input.join("\n"));
-
-
-////진짜 겁나 의문이다 왜지 왜지 왜 왜왜왜냐고
