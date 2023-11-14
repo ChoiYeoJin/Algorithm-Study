@@ -7,4 +7,4 @@ function fibonacci(num) {
     return dp[num];
 }
 
-console.log(fibonacci());
+console.log(fibonacci(10));
