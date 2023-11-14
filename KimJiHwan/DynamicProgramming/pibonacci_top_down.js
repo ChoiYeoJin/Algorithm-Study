@@ -7,4 +7,4 @@ function fibonacci(num) {
     return dp[num];
 }
 
-module.export = fibonacci(4);
+console.log(fibonacci());
