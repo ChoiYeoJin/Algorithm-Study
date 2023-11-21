@@ -59,18 +59,18 @@ const fs = require("fs");
 let input = fs.readFileSync(__dirname + "\\input.txt").toString();
 //let input = fs.readFileSync('/dev/stdin').toString().trim();
 
-let data = input.split("\r\n");
-data.shift();
-data = data.map((item) => +item);
+let data = input.split("\r\n").map((item) => Number(item));
 
-let dp = new Array(11).fill(0);
-dp[0] = 1;
+let dp = [];
+dp[0] = 0;
 dp[1] = 1;
 dp[2] = 2;
 dp[3] = 4;
 
-for (let i = 4; i < 11; i++) {
-  dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3];
+for (let j = 1; j <= data[0]; j++) {
+  let el = data[j];
+  for (let i = 4; i <= el; i++) {
+    dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3];
+  }
+  console.log(dp[el]);
 }
-
-data.forEach((el) => console.log(dp[el]));
