@@ -7,6 +7,7 @@ list=[]
 for _ in range(n):
     n = int(sys.stdin.readline())
     list.append(n)
+    
 list.sort()
 for i in list:
     print(i)
