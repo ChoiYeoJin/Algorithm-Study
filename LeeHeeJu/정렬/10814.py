@@ -4,9 +4,10 @@ import sys
 n = int(sys.stdin.readline());
 
 people=[list(sys.stdin.readline().rstrip().split(" ")) for _ in range(n)]
-people.sort(key=lambda x: int(x[0]))
+people.sort(key=lambda x: int(x[0])) 
 for person in people:
     print(" ".join(person))
+
 # age={}
 
 # for _ in range(n):
