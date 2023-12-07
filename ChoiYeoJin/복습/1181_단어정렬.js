@@ -6,7 +6,7 @@ input = input.split("\r\n");
 input.shift();
 
 const checkDictionary = (str) => {};
-
+//dsfsdf
 let sorted = input.sort((a, b) => {
   if (a.length - b.length > 0) return 1;
   else if (a.length - b.length < 0) {
